@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cerebro84@gmail.com",
+    "longName": "Hello World",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hello World",
+    "uuid": "13f67ce6-40cb-4e9b-973b-03844727102e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
